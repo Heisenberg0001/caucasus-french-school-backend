@@ -9,3 +9,4 @@ Now you can do the following things:
 - [Extend and build plugins](https://www.sanity.io/docs/content-studio/extending?utm_source=readme)
 "# sanity-test" 
 "# caucasus-french-school-backend" 
+"# caucasus-french-school-backend" 
